@@ -1,0 +1,24 @@
+{
+	"name": "async-portfolio",
+	"version": "1.0.0",
+	"description": "Test project based on the asynchronism course in Platzi.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/cavera/async-portfolio.git"
+	},
+	"keywords": [],
+	"author": "Leonardo Fonseca <cavera.de@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/cavera/async-portfolio/issues"
+	},
+	"homepage": "https://github.com/cavera/async-portfolio#readme",
+	"dependencies": {
+		"node-fetch": "^3.3.0"
+	},
+	"type": "module"
+}
